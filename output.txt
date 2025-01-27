@@ -1,0 +1,2660 @@
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
+Starting daily backup process...
+Backup completed for 2025-01-27
+Running system check...
+
+Status   Name               DisplayName                           
+------   ----               -----------                           
+Running  AdobeARMservice    Adobe Acrobat Update Service          
+Running  AnyDesk            AnyDesk Service                       
+Running  Appinfo            Application Information               
+Running  AppXSvc            AppX Deployment Service (AppXSVC)     
+Running  AudioEndpointBu... Windows Audio Endpoint Builder        
+Running  Audiosrv           Windows Audio                         
+Running  BFE                Base Filtering Engine                 
+Running  BluetoothUserSe... Bluetooth User Support Service_6d3e507
+Running  BrokerInfrastru... Background Tasks Infrastructure Ser...
+Running  BTAGService        Bluetooth Audio Gateway Service       
+Running  BthAvctpSvc        AVCTP service                         
+Running  bthserv            Bluetooth Support Service             
+Running  camsvc             Capability Access Manager Service     
+Running  cbdhsvc_6d3e507    Clipboard User Service_6d3e507        
+Running  CDPSvc             Connected Devices Platform Service    
+Running  CDPUserSvc_6d3e507 Connected Devices Platform User Ser...
+Running  CloudflareWARP     Cloudflare WARP                       
+Running  CoreMessagingRe... CoreMessaging                         
+Running  CortexLauncherS... CortexLauncherService                 
+Running  cplspcon           Intel(R) Content Protection HDCP Se...
+Running  CryptSvc           Cryptographic Services                
+Running  DcomLaunch         DCOM Server Process Launcher          
+Running  DeviceAssociati... Device Association Service            
+Running  DeviceInstall      Device Install Service                
+Running  DevicesFlowUser... DevicesFlow_6d3e507                   
+Running  DevQueryBroker     DevQuery Background Discovery Broker  
+Running  Dhcp               DHCP Client                           
+Running  DiagTrack          Connected User Experiences and Tele...
+Running  DispBrokerDeskt... Display Policy Service                
+Running  DisplayEnhancem... Display Enhancement Service           
+Running  Dnscache           DNS Client                            
+Running  DoSvc              Delivery Optimization                 
+Running  DPS                Diagnostic Policy Service             
+Running  DsSvc              Data Sharing Service                  
+Running  DusmSvc            Data Usage                            
+Running  EFS                Encrypting File System (EFS)          
+Running  esifsvc            Intel(R) Dynamic Tuning service       
+Running  EventLog           Windows Event Log                     
+Running  EventSystem        COM+ Event System                     
+Running  FontCache          Windows Font Cache Service            
+Running  FontCache3.0.0.0   Windows Presentation Foundation Fon...
+Running  GamingServices     Gaming Services                       
+Running  GamingServicesNet  Gaming Services                       
+Running  gpsvc              Group Policy Client                   
+Running  hidserv            Human Interface Device Service        
+Running  HvHost             HV Host Service                       
+Running  igccservice        Intel(R) Graphics Command Center Se...
+Running  igfxCUIService2... Intel(R) HD Graphics Control Panel ...
+Running  IKEEXT             IKE and AuthIP IPsec Keying Modules   
+Running  InstallService     Microsoft Store Install Service       
+Running  IntelAudioService  Intel(R) Audio Service                
+Running  iphlpsvc           IP Helper                             
+Running  jhi_service        Intel(R) Dynamic Application Loader...
+Running  KAPSService        Killer Smart AP Selection Service     
+Running  KeyIso             CNG Key Isolation                     
+Running  Killer Analytic... Killer Analytics Service              
+Running  Killer Network ... Killer Network Service                
+Running  KillerSmartphon... KillerSmartphoneSleepService          
+Running  KNDBWM             Killer Dynamic Bandwidth Management   
+Running  LanmanServer       Server                                
+Running  LanmanWorkstation  Workstation                           
+Running  lfsvc              Geolocation Service                   
+Running  LicenseManager     Windows License Manager Service       
+Running  LightKeeperService LightKeeperService                    
+Running  lmhosts            TCP/IP NetBIOS Helper                 
+Running  LSM                Local Session Manager                 
+Running  MDCoreSvc          Microsoft Defender Core Service       
+Running  Micro Star SCM     Micro Star SCM                        
+Running  mpssvc             Windows Defender Firewall             
+Running  MSI Foundation ... MSI Foundation Service                
+Running  MSI Sendevsvc      Sensor dev service                    
+Running  MSI_Center_Service MSI Center Service                    
+Running  Mystic_Light_Se... Mystic_Light_Service                  
+Running  NahimicService     Nahimic service                       
+Running  NcbService         Network Connection Broker             
+Running  Netman             Network Connections                   
+Running  netprofm           Network List Service                  
+Running  NetSetupSvc        Network Setup Service                 
+Running  NgcCtnrSvc         Microsoft Passport Container          
+Running  NgcSvc             Microsoft Passport                    
+Running  NortonSecurity     Norton Security                       
+Running  NPSMSvc_6d3e507    NPSMSvc_6d3e507                       
+Running  nsi                Network Store Interface Service       
+Running  nsWscSvc           Norton WSC Service                    
+Running  NVDisplay.Conta... NVIDIA Display Container LS           
+Running  OneSyncSvc_6d3e507 Sync Host_6d3e507                     
+Running  PcaSvc             Program Compatibility Assistant Ser...
+Running  PhoneSvc           Phone Service                         
+Running  PlugPlay           Plug and Play                         
+Running  PolicyAgent        IPsec Policy Agent                    
+Running  Power              Power                                 
+Running  ProfSvc            User Profile Service                  
+Running  QWAVE              Quality Windows Audio Video Experience
+Running  RasMan             Remote Access Connection Manager      
+Running  Razer Chroma SD... Razer Chroma SDK Server               
+Running  Razer Chroma SD... Razer Chroma SDK Service              
+Running  Razer Chroma St... Razer Chroma Stream Server            
+Running  Razer Game Mana... Razer Game Manager                    
+Running  Razer Game Mana... Razer Game Manager Service 3          
+Running  Razer Synapse S... Razer Synapse Service                 
+Running  RmSvc              Radio Management Service              
+Running  RpcEptMapper       RPC Endpoint Mapper                   
+Running  RpcSs              Remote Procedure Call (RPC)           
+Running  RtkAudioUnivers... Realtek Audio Universal Service       
+Running  RzActionSvc        Razer Central Service                 
+Running  SamSs              Security Accounts Manager             
+Running  Schedule           Task Scheduler                        
+Running  SecurityHealthS... Windows Security Service              
+Running  SENS               System Event Notification Service     
+Running  SharedAccess       Internet Connection Sharing (ICS)     
+Running  ShellHWDetection   Shell Hardware Detection              
+Running  Spooler            Print Spooler                         
+Running  SQLWriter          SQL Server VSS Writer                 
+Running  SSDPSRV            SSDP Discovery                        
+Running  SstpSvc            Secure Socket Tunneling Protocol Se...
+Running  StateRepository    State Repository Service              
+Running  StorSvc            Storage Service                       
+Running  SysMain            SysMain                               
+Running  SystemEventsBroker System Events Broker                  
+Running  TextInputManage... Text Input Management Service         
+Running  Themes             Themes                                
+Running  TimeBrokerSvc      Time Broker                           
+Running  TokenBroker        Web Account Manager                   
+Running  TrkWks             Distributed Link Tracking Client      
+Running  UdkUserSvc_6d3e507 Udk User Service_6d3e507              
+Running  upnphost           UPnP Device Host                      
+Running  UserManager        User Manager                          
+Running  UsoSvc             Update Orchestrator Service           
+Running  VaultSvc           Credential Manager                    
+Running  VSStandardColle... Visual Studio Standard Collector Se...
+Running  W32Time            Windows Time                          
+Running  Wcmsvc             Windows Connection Manager            
+Running  WdiSystemHost      Diagnostic System Host                
+Running  WdNisSvc           Microsoft Defender Antivirus Networ...
+Running  webthreatdefsvc    Web Threat Defense Service            
+Running  webthreatdefuse... Web Threat Defense User Service_6d3...
+Running  WinDefend          Microsoft Defender Antivirus Service  
+Running  WinHttpAutoProx... WinHTTP Web Proxy Auto-Discovery Se...
+Running  Winmgmt            Windows Management Instrumentation    
+Running  WlanSvc            WLAN AutoConfig                       
+Running  wmiApSrv           WMI Performance Adapter               
+Running  WMIRegistration... Intel(R) Management Engine WMI Prov...
+Running  WpnService         Windows Push Notifications System S...
+Running  WpnUserService_... Windows Push Notifications User Ser...
+Running  wscsvc             Security Center                       
+Running  WSearch            Windows Search                        
+Running  xTendUtilitySer... xTendUtilityService                   
+Running  ZoomCptService     Zoom Sharing Service                  
+System check completed.
+
+
