@@ -1,14 +1,17 @@
 using System.Diagnostics;
+using Microsoft.Extensions.Configuration;
 
 namespace WorkerServiceMCT
 {
     public class Worker : BackgroundService
     {
         private readonly ILogger<Worker> _logger;
+        private readonly IConfiguration _configuration;
 
-        public Worker(ILogger<Worker> logger)
+        public Worker(ILogger<Worker> logger, IConfiguration configuration)
         {
             _logger = logger;
+            _configuration = configuration;
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -26,10 +29,13 @@ namespace WorkerServiceMCT
                 await Task.Delay(1000, stoppingToken);
             }
         }
-       
+
         private void ExecutePowerShellScripts()
         {
-            string scriptsDirectory = @"C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\scripts";
+            // Get scripts directory from configuration
+            string scriptsDirectory = Path.Combine(AppContext.BaseDirectory, 
+                _configuration.GetValue<string>("ScriptSettings:ScriptsDirectory") ?? "scripts");
+
             if (!Directory.Exists(scriptsDirectory))
             {
                 throw new DirectoryNotFoundException($"The directory '{scriptsDirectory}' does not exist.");
@@ -59,6 +65,5 @@ namespace WorkerServiceMCT
                 }
             }
         }
-
     }
 }

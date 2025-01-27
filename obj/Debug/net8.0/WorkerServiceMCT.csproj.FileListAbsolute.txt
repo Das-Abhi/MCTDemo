@@ -46,3 +46,6 @@ C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\obj\Debug\net8.0\r
 C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\obj\Debug\net8.0\WorkerServiceMCT.pdb
 C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\obj\Debug\net8.0\WorkerServiceMCT.genruntimeconfig.cache
 C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\obj\Debug\net8.0\ref\WorkerServiceMCT.dll
+C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\obj\Debug\net8.0\WorkerServiceMCT.sourcelink.json
+C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\bin\Debug\net8.0\scripts\DailyBackup.ps1
+C:\Users\dabhi\source\repos\WorkerServiceMCT\WorkerServiceMCT\bin\Debug\net8.0\scripts\SystemCheck.ps1
