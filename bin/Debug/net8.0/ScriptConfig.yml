@@ -1,0 +1,4 @@
+- name: DailyBackup.ps1
+  frequency: 5000
+- name: SystemCheck.ps1
+  frequency: 10000
