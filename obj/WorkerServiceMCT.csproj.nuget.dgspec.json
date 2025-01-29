@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dabhi\\source\\repos\\WorkerServiceMCT\\WorkerServiceMCT\\WorkerServiceMCT.csproj": {}
+    "C:\\Users\\320183834\\source\\repos\\MCTDemo\\WorkerServiceMCT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dabhi\\source\\repos\\WorkerServiceMCT\\WorkerServiceMCT\\WorkerServiceMCT.csproj": {
+    "C:\\Users\\320183834\\source\\repos\\MCTDemo\\WorkerServiceMCT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dabhi\\source\\repos\\WorkerServiceMCT\\WorkerServiceMCT\\WorkerServiceMCT.csproj",
+        "projectUniqueName": "C:\\Users\\320183834\\source\\repos\\MCTDemo\\WorkerServiceMCT.csproj",
         "projectName": "WorkerServiceMCT",
-        "projectPath": "C:\\Users\\dabhi\\source\\repos\\WorkerServiceMCT\\WorkerServiceMCT\\WorkerServiceMCT.csproj",
-        "packagesPath": "C:\\Users\\dabhi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dabhi\\source\\repos\\WorkerServiceMCT\\WorkerServiceMCT\\obj\\",
+        "projectPath": "C:\\Users\\320183834\\source\\repos\\MCTDemo\\WorkerServiceMCT.csproj",
+        "packagesPath": "C:\\Users\\320183834\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\320183834\\source\\repos\\MCTDemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dabhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\320183834\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,13 +51,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.17, )"
+            },
+            "Hangfire.MemoryStorage": {
+              "target": "Package",
+              "version": "[1.8.1.1, )"
+            },
             "Microsoft.Extensions.Hosting": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[9.0.1, )"
             },
             "YamlDotNet": {
               "target": "Package",
               "version": "[16.3.0, )"
+            },
+            "hangfire": {
+              "target": "Package",
+              "version": "[1.8.17, )"
             }
           },
           "imports": [
