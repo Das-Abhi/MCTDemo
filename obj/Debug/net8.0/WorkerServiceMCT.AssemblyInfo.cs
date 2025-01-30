@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkerServiceMCT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73b051b953d6ec9581b9e59d59b78d8cfda194f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1a5eb6f5f0091ff358d7d858377c07ba8daedfbb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkerServiceMCT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkerServiceMCT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

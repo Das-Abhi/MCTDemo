@@ -2,3 +2,15 @@
   frequency: 60000
 - name: SystemCheck.ps1
   frequency: 120000
+- name: CPUMetrics.ps1
+  frequency: 90000
+- name: ComputerSystemMetrics.ps1
+  frequency: 150000
+- name: DiskMetrics.ps1
+  frequency: 180000
+- name: OSMetrics.ps1
+  frequency: 200000
+- name: SystemMetrics.ps1
+  frequency: 250000
+- name: NetworkMetrics.ps1
+  frequency: 300000

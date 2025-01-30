@@ -20,8 +20,8 @@ var app = builder.Build();
 // Start Hangfire Server
 using (var scope = app.Services.CreateScope())
 {
-    var worker = scope.ServiceProvider.GetRequiredService<Worker>(); // ✅ Get Worker from DI
-    var jobManager = scope.ServiceProvider.GetRequiredService<IRecurringJobManager>(); // ✅ Use DI-based API
+    var worker = scope.ServiceProvider.GetRequiredService<Worker>(); // Get Worker from DI
+    var jobManager = scope.ServiceProvider.GetRequiredService<IRecurringJobManager>(); // Use DI-based API
 
     var scriptConfigs = worker.LoadScriptConfigurations();
     foreach (var scriptConfig in scriptConfigs)

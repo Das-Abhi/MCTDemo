@@ -58,39 +58,6 @@ namespace WorkerServiceMCT
                 await Task.Delay(1000, stoppingToken); // Keep the worker running
             }
         }
-
-        //private void ExecutePowerShellScript(string scriptName)
-        //{
-        //    // Get scripts directory from configuration
-        //    string scriptsDirectory = Path.Combine(AppContext.BaseDirectory, 
-        //        _configuration.GetValue<string>("ScriptSettings:ScriptsDirectory") ?? "scripts");
-
-        //    string scriptFile = Path.Combine(scriptsDirectory, scriptName);
-
-        //    if (!File.Exists(scriptFile))
-        //    {
-        //        throw new FileNotFoundException($"The script '{scriptFile}' does not exist.");
-        //    }
-
-        //    ProcessStartInfo startInfo = new ProcessStartInfo
-        //    {
-        //        FileName = "powershell.exe",
-        //        Arguments = $"-NoProfile -ExecutionPolicy Bypass -File \"{scriptFile}\"",
-        //        RedirectStandardOutput = true,
-        //        UseShellExecute = false,
-        //        CreateNoWindow = true
-        //    };
-
-        //    using (Process process = new Process { StartInfo = startInfo })
-        //    {
-        //        process.Start();
-        //        string output = process.StandardOutput.ReadToEnd();
-        //        process.WaitForExit();
-
-        //        // Append output to output.txt
-        //        File.AppendAllText("output.txt", output);
-        //    }
-        //}
         public void ExecutePowerShellScript(string scriptName)
         {
             string scriptsDirectory = Path.Combine(AppContext.BaseDirectory,
